@@ -1,0 +1,49 @@
+_repo: The-Hesperides--amp--Noble-Numbers--Vol.-1-and-2_22421
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Swinburne, Algernon Charles
+    aliases:
+    - Maitland, Thomas
+    - Maitland, A. C. (Algernon Charles)
+    birthdate: 1837
+    deathdate: 1909
+    gutenberg_agent_id: '832'
+    url: http://www.gutenberg.org/2009/agents/832
+    wikipedia: http://en.wikipedia.org/wiki/Algernon_Swinburne
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Herrick, Robert
+    alias: Herrick, R. (Robert)
+    birthdate: 1591
+    deathdate: 1674
+    gutenberg_agent_id: '554'
+    url: http://www.gutenberg.org/2009/agents/554
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Herrick_(poet)
+  editor:
+    agent_name: Pollard, Alfred W. (Alfred William)
+    aliases:
+    - Pollard, Alfred William
+    - Pollard, A. W. (Alfred William)
+    birthdate: 1859
+    deathdate: 1944
+    gutenberg_agent_id: '7475'
+    url: http://www.gutenberg.org/2009/agents/7475
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_W._Pollard
+description: ''
+gutenberg_issued: '2007-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22421'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Poetry'
+title: 'The Hesperides & Noble Numbers: Vol. 1 and 2'
+url: http://www.gutenberg.org/ebooks/22421
