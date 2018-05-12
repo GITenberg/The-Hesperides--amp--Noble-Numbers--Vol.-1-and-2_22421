@@ -34,6 +34,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7475
     wikipedia: http://en.wikipedia.org/wiki/Alfred_W._Pollard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22421#The-Hesperides--amp--Noble-Numbers--Vol.-1-and-2
 gutenberg_issued: '2007-08-28'
 gutenberg_type: Text
 identifiers:
